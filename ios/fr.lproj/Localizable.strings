@@ -1,0 +1,400 @@
+/* 
+   Localizable.strings for FR language
+   CalJ
+
+   Created by Gabriel Zerbib on 21/06/09.
+   Copyright 2009 Plenitech. All rights reserved.
+ */
+
+"LANGUAGE" = "fr";
+
+"LabelTitleFavCities" = "Mes villes favorites";
+"LabelTitleCities" = "Mes villes";
+"LabelButtonAlertFavAdded" = "OK";
+
+"TitleInternetError" = "Erreur de connexion";
+"MessageInternetError" = "CalJ n'a pas pu se connecter à Internet.";
+"MessageErrorTimezone" = "Le fuseau horaire ne peut pas être déterminé.";
+
+"TabTimes" = "Date";
+"TabMonth" = "Mois";
+"TabHolidays" = "Fêtes";
+"TabSettings" = "Réglages";
+"TabBirkatHamazon" = "Plus";
+"TitleChangeDate" = "Changer la date";
+"TitleBirkatHamazon" = "Bircat haMazon";
+
+"CellAbout" = "A propos de CalJ";
+"CellNews" = "Informations";
+"CellLanguage" = "Langue";
+
+"ButtonCancel" = "Annuler";
+"ButtonSelect" = "Choisir";
+"ButtonThisYear" = "Année en cours";
+"ButtonToday" = "Aujourd'hui";
+"LabelYear" = "Année";
+"LabelDate" = "Date";
+
+"AlertCalendarTitle" = "Transférer vers le Calendrier";
+"AlertCalendarMsgSuppressOrAdd" = "Avant de choisir le calendrier cible dans votre appareil, quelle opération souhaitez-vous faire ?";
+"ButtonEraseFromCalendar" = "Les effacer d'un calendrier…";
+"ButtonAddToCalendar" = "Les inscrire dans un calendrier…";
+"Remove from which calendar?" = "Supprimer de quel calendrier ?";
+"Insert into which calendar?" = "Ajouter dans quel calendrier ?";
+
+"LabelNight" = "soir";
+"LabelTo" = "à";
+"LabelAnd" = "et";
+
+"LabelCityNotDefined" = "Ville non définie";
+"LabelHebrewText" = "Afficher l'hébreu";
+"Rosh Chodesh" = "Rosh Ḥodesh";
+"LabelNextRoshChodesh" = "Prochain Rosh Ḥodesh :";
+"LabelNextHoliday" = "Prochaine date :";
+"LabelShabbat" = "Shabbat";
+"LabelShabbatMevarchim" = "Shabbat mevarekhim";
+"LabelShabbatRoshChodesh" = "Shabbat Rosh Ḥodesh";
+"LabelParashat" = "Parashat :";
+"LabelCurrentLocation" = "Position";
+"LabelStartGeoloc" = "Géolocaliser";
+"LabelLatitude" = "Latitude";
+"LabelLongitude" = "Longitude";
+"LabelTimezone" = "Fuseau";
+"Candles" = "Bougies";
+"LabelCityName" = "Ville";
+"LabelPleaseWait" = "Veuillez patienter...";
+"LabelAutoDetectTZ" = "Auto...";
+"LabelSearchCity" = "Chercher une ville";
+"SearchCityBarTitle" = "Chercher une ville";
+"LabelPromptCitySearchBar" = "Entrer le nom d'une ville";
+"LabelAddCityToFavourites" = "Ajouter à mes favoris";
+"LabelColorMode" = "Fond clair";
+"LabelBigFont" = "Grandes polices";
+
+
+"LabelZmanimSection" = "Zmanim :";
+"zmanAlotHaShachar" = "Alot haShaḥar";
+"zmanBeginTefilin" = "Début téfilin & shéma'";
+"LabelZmanimBeginTefilinShabbat" = "Début Shéma'";
+"zmanNetz" = "Hanetz haḤama";
+"zmanLatestShemaGRA" = "Heure max Shema' GR\"A";
+"zmanLatestShemaMA" = "Heure max Shema' M\"A";
+"zmanLatestTefilaGRA" = "Heure max tefila GR\"A";
+"zmanLatestTefilaMA" = "Heure max tefila M\"A";
+"zmanChatzot" = "Ḥatsot hayom";
+"zmanChatzotLaila" = "Ḥatsot laïla";
+"zmanMinchaGdola" = "Minḥa Guedola";
+"zmanMinchaQtana" = "Minḥa Qetana";
+"zmanPlag" = "Plag haMinḥa";
+"zmanShqiya" = "Shqiyat haḤama";
+"zmanTzeitHaKochavim" = "Tzeit haCokhavim";
+"zmanRabenuTam" = "Nuit de Rabenou Tam";
+"LabelZmanimShaaGRA" = "Shaa zmanit GR\"A";
+"LabelOmer" = "Omer :";
+"LabelOmerDay" = "jour";
+"LabelOmerNight" = "soir";
+
+"LabelExtraBirkatSef" = "Séfarade";
+"LabelExtraBirkatAsh" = "Ashkénaze";
+"SectionBircatHamazon" = "Bircat Hamazon";
+"SectionBircatMeeinShalosh" = "Berakhot +";
+"SectionBethLoubavitch" = "Publications";
+
+"LabelDafYomi" = "Indiquer le Daf Yomi";
+"LabelDafYomiField" = "Daf yomi :";
+
+"LabelOmerNotif" = "Rappel du Omer";
+"LabelOmerCaptionNone" = "Non";
+"LabelOmerCaptionStars" = "Sortie des étoiles";
+
+
+"LabelTachanun" = "Indiquer les Taḥanounim";
+"LabelTachanunViewYes" = "Avec Taḥanounim";
+"LabelTachanunViewYesMorning" = "Taḥanounim le matin";
+"LabelTachanunViewNo" = "Sans Taḥanoun";
+"LabelTachanunViewYesShabbat" = "Tsidqatkha";
+
+
+//"LabelAlertNoCityTitle" = "Ville non définie";
+//"LabelAlertNoCityMessage" = "Pour afficher les zmanim, vous devez définir votre position dans l'onglet Réglages";
+//"LabelAlertNoCityMessageOk"= "OK";
+
+"LabelSectionCustomEvents" = "Evénements personnalisés";
+"LabelSectionDisplay" = "Affichage";
+"LabelSectionHalacha" = "Halakha";
+"LabelSectionReminders" = "Rappels";
+
+"LabelCustomEvents" = "Mes dates";
+"PhEventName" = "Titre";
+"LabelEventIsHazcara" = "Hazcara :";
+"LabelEventIsAshkenaz" = "Rite ashkenaz :";
+"LabelListCustomEvents" = "Lister mes dates";
+"LabelListCustomEventsInHolidays" = "dans la page Fêtes";
+"LabelCustomEventsNotif" = "Alertes";
+"LabelCustomEventsNotifTime" = "Heure de l'alerte";
+"LabelAlarmNone" = "Aucune";
+"LabelAlarmSameDay" = "Le jour même";
+"LabelAlarmOneDay" = "La veille";
+"LabelAlarmTwoDays" = "L'avant-veille";
+"LabelAlarmOneWeek" = "Une semaine";
+"LabelAlarmTwoWeeks" = "Deux semaines";
+"LabelEventsDoRepeat" = "Automatiquement répétées chaque année";
+
+"TitleImportCustomEvents" = "Dates Personnelles";
+"MessageImportCustomEventsSuccess" = "Import réussi.";
+"MessageImportCustomEventsError" = "Les données fournies ne sont pas exploitables.";
+"HintImportCustomEvents" = "Pour importer des anniversaires personnalisés, coller le code obtenu depuis l'écran d'export.";
+"HintExportCustomEvents" = "Pour exporter vos dates personnelles, copiez le code suivant. Vous pourrez par exemple l'envoyer par email à vos amis, pour qu'ils l'importent dans leur CalJ.";
+
+"HTMLAbout" = "about-fr.html";
+
+"ShortDaySun" = "dim";
+"ShortDayMonday" = "lun";
+"ShortDayTuesday" = "mar";
+"ShortDayWednesday" = "mer";
+"ShortDayThursday" = "jeu";
+"ShortDayFriday" = "ven";
+"ShortDaySat" = "sam";
+
+"HolidayRoshHashana" = "Rosh HaShana";
+"HolidayGedalia" = "Jeûne de Guedalia";
+"HolidayYomKippur" = "Yom Kipour";
+"HolidaySuccot" = "Souccot";
+"HolidayHoshaanaRabba" = "Hoshaâna Rabba";
+"HolidayShminiAtseret" = "Shemini Atseret + Simḥat Tora";
+"HolidayChanuka" = "Ḥanouka";
+"HolidayTevet10" = "10 Tevet";
+"HolidayShvat15" = "Tou bi Shvat";
+"HolidayPurimKatan" = "Pourim Katane";
+"HolidayPurimFast" = "Jeûne d'Esther";
+"HolidayPurim" = "Pourim";
+"HolidayPurimShushan" = "Pourim Shoushan";
+"HolidayPesach" = "Pessaḥ";
+"HolidayYomHaShoa" = "Yom haShoa";
+"HolidayYomHaZicaron" = "Yom haZicaron";
+"HolidayYomHaAtsmaut" = "Yom haAtsmaout";
+"HolidayYomYerushalaim" = "Yom Yeroushalaïm";
+"HolidayPesachSheni" = "Pessaḥ sheni";
+"HolidayLagBaOmer" = "Lag ba Omer";
+"HolidayShavuot" = "Shavouot";
+"HolidayTamuz17" = "17 Tamouz";
+"HolidayAv9" = "Tisha be'Av";
+"HolidayAv15" =                 "Tou be'Av";
+
+"HDate_LongMonth_1" = "Nissan";
+"HDate_LongMonth_2" = "Iyar";
+"HDate_LongMonth_3" = "Sivan";
+"HDate_LongMonth_4" = "Tamouz";
+"HDate_LongMonth_5" = "Av";
+"HDate_LongMonth_6" = "Eloul";
+"HDate_LongMonth_7" = "Tishri";
+"HDate_LongMonth_8" = "Ḥeshvan";
+"HDate_LongMonth_9" = "Kislev";
+"HDate_LongMonth_10" = "Tevet";
+"HDate_LongMonth_11" = "Shvat";
+"HDate_LongMonth_12" = "Adar";
+"HDate_LongMonth_AdarI" = "Adar rishon";
+"HDate_LongMonth_13" = "Adar sheni";
+
+"SpecialParasha_1" = "Zakhor";
+"SpecialParasha_2" = "Sheqalim";
+"SpecialParasha_3" = "HaḤodesh";
+"SpecialParasha_4" = "Parah";
+
+"Parasha_0" =   "Bereshit";
+"Parasha_1" =	"Noaḥ";
+"Parasha_2" =	"Lekh lekha";
+"Parasha_3" =	"Vayera";
+"Parasha_4" =	"Ḥayei-Sarah";
+"Parasha_5" =	"Toldot";
+"Parasha_6" =	"Vayetse";
+"Parasha_7" =	"Vayishlaḥ";
+"Parasha_8" =	"Vayeshev";
+"Parasha_9" =	"Miqetz";
+"Parasha_10" =	"Vayigash";
+"Parasha_11" =	"Vayeḥi";
+"Parasha_12" =	"Shemot";
+"Parasha_13" =	"Va'era";
+"Parasha_14" =	"Bo";
+"Parasha_15" =	"Beshalaḥ";
+"Parasha_16" =	"Yitro";
+"Parasha_17" =	"Mishpatim";
+"Parasha_18" =	"Terouma";
+"Parasha_19" =	"Tetsaveh";
+"Parasha_20" =	"Ki-Tissa";
+"Parasha_21" =	"Vayaq'hel";
+"Parasha_22" =	"Peqoudei";
+"Parasha_23" =	"Vayiqra";
+"Parasha_24" =	"Tsav";
+"Parasha_25" =	"Shemini";
+"Parasha_26" =	"Tazria";
+"Parasha_27" =	"Metsora";
+"Parasha_28" =	"Aḥarei moth";
+"Parasha_29" =	"Qedoshim";
+"Parasha_30" =	"Emor";
+"Parasha_31" =	"Behar";
+"Parasha_32" =	"Beḥouqotaï";
+"Parasha_33" =	"Bamidbar";
+"Parasha_34" =	"Nasso";
+"Parasha_35" =	"Behaâlotekha";
+"Parasha_36" =	"Shelaḥ";
+"Parasha_37" =	"Qoraḥ";
+"Parasha_38" =	"Ḥouqat";
+"Parasha_39" =	"Balaq";
+"Parasha_40" =	"Pinḥas";
+"Parasha_41" =	"Matot";
+"Parasha_42" =	"Mass'ei";
+"Parasha_43" =	"Devarim";
+"Parasha_44" =	"Vaetḥanan";
+"Parasha_45" =	"Eqev";
+"Parasha_46" =	"Re'eh";
+"Parasha_47" =	"Shoftim";
+"Parasha_48" =	"Ki-Tetse";
+"Parasha_49" =	"Ki-Tavo";
+"Parasha_50" =	"Nitsavim";
+"Parasha_51" =	"Vayelekh";
+"Parasha_52" =	"Ha'azinou";
+"Parasha_53" =	"Vezot-Haberakha";
+
+
+
+"Birkat_Psaume123" = "Psaume 123 :";
+"Birkat_Title_Sefaradic" = "Birkat haMazon Séfarad";
+"Birkat_Title_Ashkenaz" = "Birkat haMazon Ashkenaz";
+"Birkat_Zimoun" = "Zimoune :";
+"Birkat_OnRepond" = "On répond :";
+"Birkat_IlReprend" = "Il reprend :";
+"Birkat_Minyan" = "10 hommes";
+"Birkat_BeginBirkatHamazon" = "Sans Zimoune, on commence ici :";
+"Birkat_LowVoice" = "à voix basse";
+"Birkat_GuestMevarech" = "L'invité bénit son hôte :";
+"Birkat_OnContinue" = "On continue :";
+"Birkat_Succot" = "A Souccot :";
+"Birkat_Purim" = "A Pourim :";
+"Birkat_Chanuka" = "A Ḥanouka :";
+"Birkat_RoshChodesh" = "Rosh Ḥodesh :";
+"Birkat_Teshuva" = "Pendant les 10 jours de Teshouva :";
+"Birkat_DidMealStartBeforeStars" = "Le repas a-t-il commencé avant la nuit ?";
+"Yes" = "Oui";
+"No" = "Non";
+
+"Birkat_Title_Ashkenaz" = "Birkat haMazon Ashkénaz";
+
+"BirkatMeeinShalosh_Title" = "Me'ein Shalosh";
+"TefilatHaderekh_Title" = "Tefilat haDerekh";
+
+"Birkat_Pesach" = "A Pessaḥ :";
+"Birkat_5Cereals" = "Sur les cinq céréales :";
+"Birkat_5CerealsIsrael" = "Sur les cinq céréales [d'Israel] :";
+"Birkat_Wine" = "Sur le vin :";
+"Birkat_WineIsrael" = "Sur le vin [d'Israel] :";
+"Birkat_7Fruits" = "Sur les sept fruits :";
+"Birkat_7FruitsIsrael" = "Sur les sept fruits [d'Israel] :";
+
+"BoreiNefashot_Title" = "Borei Nefachot";
+"Qaddish_Title" = "קדיש Qaddish";
+"AsherYatsar_Title" = "אשר יצר Asher Yatsar";
+"AsherYatsar_File" = "asher-yatsar-fr";
+
+"AlertRoshChodesh" = "Rosh Ḥodesh ce soir";
+"AlertRoshChodesh2" = "Rosh Ḥodesh ce soir (2 jours)";
+"AlertShabbatRC" = "Shabbat Rosh Ḥodesh";
+"AlertShabbatRC2" = "Shabbat Rosh Ḥodesh (2 jours)";
+"LabelRoshChodeshNotif" = "Alerte R.Ḥodesh";
+"LabelRoshChodeshNotif-0" = "Non";
+"LabelRoshChodeshNotif-1" = "Veille Soir";
+"LabelRoshChodeshNotif-2" = "Veille 14h";
+
+"Shabbat Candles" = "Bougies de Shabbat";
+"You can schedule a reminder that your device will ring some time before Shabbat Candles time." = "Vous pouvez configurer un rappel que votre appareil fera apparaître à l'approche de l'heure des bougies.";
+"LabelShabbatReminder-0" = "Non";
+"LabelShabbatReminder-1" = "30min avant";
+"LabelShabbatReminder-2" = "1h avant";
+"AlertShabbatReminderBody" = "Bientôt l'heure de Shabbat ! (%@)";
+
+
+"qrcode.title" = "QR Code";
+"qrcode.caption" = "Dites à vos amis de scanner ce tag pour télécharger directement CalJ";
+"TwitterText" = "Téléchargez CALJ - Calendrier Juif GRATUIT via @calj_net https://calj.net/app?l=fr";
+"Share.title" = "Partager CalJ";
+"Share.cancel" = "Annuler";
+
+"LabelSupport" = "Support";
+"Ask for help" = "Demander de l'aide";
+"LabelSharePost" = "Partager";
+"LabelShareFollow" = "Suivre @calj_net";
+"LabelDonate" = "Faire un don à CalJ";
+"LabelWhyDonate" = "Pour conserver la gratuité de cette app pour tous";
+"TwitterAccount" = "calj_net";
+"ShareEmailText" = "Téléchargez CalJ: une app GRATUITE de calendrier juif, complète et facile";
+"ShareEmailSubject" = "CALJ";
+
+
+"ExportCalendarError.Title" = "Erreur de transfert";
+"ExportCalendarError.Message" = "Une erreur s'est produite lors du transfert des dates vers le calendrier. Vérifiez vos réglages de calendrier par défaut et d'autorisations d'accès.";
+"ExportCalendarError.Cancel" = "Annuler";
+
+
+
+"DafYomiSiumDays" = "(Sioum dans %d jours)";
+"DafYomiSiumTomorrow" = "(Sioum demain)";
+"DafYomiSiumToday" = "(Sioum aujourd'hui !)";
+
+"Eve" = "Veille";
+
+"Notifications are disabled" = "Certaines fonctions de CalJ nécessitent d'autoriser les Notifications. Touchez la barre pour ouvrir les Réglages de l'appareil.";
+
+"Custom Reminders" = "Rappels personnalisés";
+"LanguageListRestartTheApp" = "Relancer l'app en :";
+"Psalm119_Title" = "Psaume 119 (קיט) Alpha-Beta";
+
+"LabelHilulot" = "Afficher les Hiloulot";
+
+"TitleShabbatSelector" = "Trouver un Shabbat";
+"motsa\"sh" = "motsa\"sh";
+"LabelLevana" = "Bircat haLevana";
+"LabelMinchaGdolaLachumra" = "Minḥa Gdola Laḥumra";
+"Tikun_Title" = "Tikoun Haklali תיקון הכללי";
+
+"Weekdays" = "Jours de semaine";
+
+"Remind me" = "M'en reparler plus tard";
+"Back" = "Retour";
+
+"16.1 Degrees Below Horizon" = "16.1 degrés sous l'horizon";
+"72 Seasonal Minutes Before Hanetz" = "72 min prop. avant Hanets";
+"72 Seasonal Minutes After Sunset" = "72 min prop. après le coucher de soleil";
+"13.5 Seasonal Minutes After Sunset" = "13.5 min prop. après le coucher de soleil";
+"11 Degrees Below Horizon" = "11 degrés sous l'horizon";
+"7.08 Degrees Below Horizon" = "7.08 degrés sous l'horizon";
+"6 Seasonal Minutes After Alot HaShachar" = "6 min prop. après Alot haShaḥar";
+"30 prop. min after Chatzot Yom" = "30min prop. après Ḥatsot Yom";
+"At least 30 fixed min after Chatzot"= "Au moins 30min fixes après Ḥatsot";
+"20 Seasonal Minutes After Sunset" = "20 min prop. après le coucher de soleil";
+
+"Tip Of The Day" = "Conseil du jour";
+"Show Tips on Startup" = "Montrer les conseils au démarrage";
+"Got it" = "J'ai compris";
+"Frequently Asked Questions" = "Questions Fréquentes";
+"FAQ" = "Questions Fréquentes";
+"MORE" = "PLUS";
+"Did you take a look at the Frequently Asked Questions section?\n\nIf you couldn't find your answer, please feel free to contact me by email." = "Avez-vous pensé à consulter la page des Questions Fréquentes ?\n\nSi vous n'avez pas pu trouver votre réponse, n'hésitez pas à me contacter par e-mail.";
+"EMail" = "e-mail";
+
+
+"WizardNeedToKnowYourLocation" = "CalJ a besoin de savoir dans quelle ville vous vous trouvez, pour pouvoir calculer les Zmanim.\n\nDans l'écran suivant, vous allez pouvoir vous positionner grâce au GPS, ou faire une recherche de ville par nom.";
+
+
+"You can reactivate the Tip Of The Day at any time from your Settings screen." = "Vous pourrez réactiver le Conseil du Jour à tout moment, depuis votre écran de Réglages.";
+
+"End Of Tzom DeRabbanan" = "Fin des jeûnes dérabbanan";
+
+"דף יומי :" = "Daf Yomi :";
+
+"Place Name" = "Nom du lieu";
+"WizardFailedReverseGeocoding" = "CalJ n'a pas réussi à se connecter à l'Internet pour trouver le nom de votre ville.\n\nCe n'est pas un problème pour les calculs : nous allons simplement utiliser les coordonnées comme nom de lieu pour le moment.\n\nVeillez simplement à configurer manuellement le fuseau horaire dans l'écran suivant si nécessaire.";
+
+
+
+"Chol Hamo'ed" = "Ḥol hamo'ed";
+
