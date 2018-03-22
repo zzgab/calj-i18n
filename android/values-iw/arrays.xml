@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="changeHDate">
+        <item name="0">12 AM</item>
+        <item name="1">כוכבים</item>
+    </string-array>
+
+    <string-array name="tachanunYomHaAtsmautEntries">
+        <item name="0">אין תחנון</item>
+        <item name="1">עם תחנון</item>
+    </string-array>
+
+    <string-array name="yesNo">
+        <item name="1">כן</item>
+        <item name="0">לא</item>
+    </string-array>
+
+    <string-array name="lightDark">
+        <item name="0">לבן</item>
+        <item name="1">כוכבים</item>
+    </string-array>
+
+    <string-array name="ashkenazSefarad">
+        <item name="1">אשכנז</item>
+        <item name="0">עדות המזרח</item>
+    </string-array>
+
+    <string-array name="sofTzomEntries">
+        <item name="0">הרב פוזנא (7.08- מעלות)</item>
+        <item name="1">20 דק. זמ. אחרי השקיעה</item>
+    </string-array>
+
+    <string-array name="shitatLailaRabbenuTamEntries">
+        <item name="ovadia">הרב עובדיה יוסף (72 דק" אחרי השקיעה)</item>
+        <item name="pozen">הרב פוזנא (16.1- מעלות)</item>
+    </string-array>
+
+    <string-array name="shitatKochavimEntries">
+        <item name="ovadia">הרב עובדיה יוסף (13.5 דק" אחרי השקיעה)</item>
+        <item name="pozen">הרב פוזנא (7.08- מעלות)</item>
+    </string-array>
+
+    <string-array name="shitatAlotHashacharEntries">
+        <item name="ovadia">הרב עובדיה יוסף (72 דק" לפני הנץ)</item>
+        <item name="pozen">הרב פוזנא (16.1- מעלות)</item>
+    </string-array>
+
+    <string-array name="shitatEarliestTefilinEntries">
+        <item name="ovadia">הרב עובדיה יוסף (6 דק" אחרי עלות השחר)</item>
+        <item name="pozen">הרב פוזנא (11- מעלות)</item>
+        <item name="otzarot">אוצרות ירושלים (10.2- מעלות)</item>
+    </string-array>
+
+    <string-array name="notifOmerEntries">
+        <item name="0">לא</item>
+        <item name="1">כוכבים</item>
+        <item name="2">8:00 pm</item>
+        <item name="3">8:30 pm</item>
+        <item name="4">9:00 pm</item>
+    </string-array>
+
+    <string-array name="notifOmerShowPrevEntries">
+        <item name="0">מספר חדש</item>
+        <item name="1">מספר קודם</item>
+    </string-array>
+
+    <string-array name="notifShabbatEntries">
+        <item name="0">לא</item>
+        <item name="1">30 min before</item>
+        <item name="2">60 min before</item>
+        <item name="3">5 hrs before</item>
+    </string-array>
+
+    <string-array name="notifRoshChodeshEntries">
+        <item name="0">לא</item>
+        <item name="1">Eve 2PM</item>
+        <item name="2">Eve 7PM</item>
+    </string-array>
+
+    <string-array name="notifCustomDateDaysEntries">
+        <item name="0">Off</item>
+        <item name="1">אותו יום</item>
+        <item name="2">יום לפני</item>
+        <item name="3">יומים לפני</item>
+        <item name="4">שבוע לפני</item>
+        <item name="5">שבועים לפני</item>
+    </string-array>
+
+    <string-array name="spinner_candle_minutes_entries">
+        <item name="0">Auto (18min)</item>
+        <item name="20">20min</item>
+        <item name="22">22min</item>
+        <item name="30">30min</item>
+        <item name="40">40min</item>
+    </string-array>
+
+</resources>

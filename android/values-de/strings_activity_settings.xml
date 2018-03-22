@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="title_activity_date_picker">Datum</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="pref_header_location">Standort</string>
+    <string name="pref_header_location_summary">Angabe deines Standorts, Lesezeichen verwalten</string>
+
+    <string name="pref_header_rite">Einstellungen Halacha</string>
+    <string name="pref_header_rite_summary"></string>
+
+    <string name="pref_header_display">Einstellungen Anzeige</string>
+    <string name="pref_header_display_summary">Anzeige einstellen</string>
+
+    <string name="pref_header_custom_events">Standrad Datum</string>
+    <string name="pref_header_custom_events_summary">Geburtstage und Atzkarot</string>
+
+    <string name="pref_header_notifications">Benachrichtigungen</string>
+    <string name="pref_header_notifications_summary"><![CDATA[Reminders for Omer, Shabbat & more]]></string>
+
+    <string name="pref_header_get_help">Hilfe?</string>
+
+
+    <string name="pref_title_pick_fav_city">Meine Orte</string>
+    <string name="long_click_to_remove">Zum Entfernen: berühren und halten</string>
+
+    <string name="pref_title_search_city">Ort nach Namen suchen</string>
+    <string name="pref_title_gps">Suche Ort mit GPS</string>
+
+    <!-- Cities settings -->
+
+
+    <string name="pref_title_show_dafyomi">Daf Yomi anzeigen</string>
+    <string name="pref_title_show_tachanun">Tachanun anzeigen</string>
+    <string name="pref_title_show_molad">Molad anzeigen</string>
+    <string name="pref_title_display_hebrew">Anzeige in Hebräisch</string>
+    <string name="pref_title_color_theme">Farbschema</string>
+
+
+    <string name="pref_title_nusach">Ritus</string>
+
+    <!-- Notifications -->
+    <string name="pref_title_pick_omer_notification_time">Erinnerung Omer</string>
+    <string name="pref_title_pick_shabbat_notification_time">Erinnerung an Schabbat-kerzen</string>
+    <string name="pref_title_pick_roshchodesh_notification_time">Rosch Chodesch Erinnerung</string>
+    <string name="pref_title_pick_customevent_notif_days">Standard Alarmzeit</string>
+    <string name="gps_network_not_enabled">GPS ausgeschaltet.</string>
+    <string name="open_location_settings">Einstellungen öffenen</string>
+
+</resources>

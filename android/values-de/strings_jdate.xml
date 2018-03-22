@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="eve">Abend</string>
+    <string name="from">von</string>
+    <string name="to">bis</string>
+    <string name="and">und</string>
+
+    <string-array name="HebrewMonth">
+        <item>Nissan</item>
+        <item>Ijar</item>
+        <item>Siwan</item>
+        <item>Tammus</item>
+        <item>Aw</item>
+        <item>Elul</item>
+        <item>Tischrei</item>
+        <item>Cheschwan</item>
+        <item>Kislew</item>
+        <item>Tewet</item>
+        <item>Schwat</item>
+        <item>Adar</item>
+        <item>Adar 2</item>
+        <item>Adar 1</item>
+    </string-array>
+
+
+    <string-array name="FestivalName">
+        <item>Rosch haSchana</item>
+        <item>Fasten von Gedalia</item>
+        <item>Jom Kippur</item>
+        <item>Sukkot</item>
+        <item>Hoschana Rabba</item>
+        <item>Schemini Atzeret</item>
+        <item>Simchat Torah</item>
+        <item>Chanukka</item>
+        <item>Fasten vom 10. Tewet</item>
+        <item>Tu BiSchwat</item>
+        <item>Purim Katan</item>
+        <item>Fasten von Esther</item>
+        <item>Purim</item>
+        <item>Schuschan Purim</item>
+        <item>Pessach</item>
+        <item>Jom haSchoa</item>
+        <item>Jom haSikaron</item>
+        <item>Jom haAtzma'ut</item>
+        <item>Pessach 2</item>
+        <item>Lag baOmer</item>
+        <item>Jom Jeruschalajim</item>
+        <item>Schawuot</item>
+        <item>Fasten vom 17. Tammuz</item>
+        <item>Fasten vom 9. Aw</item>
+        <item>Tu beAw</item>
+    </string-array>
+
+    <string name="tachanun_no">kein Tachanun</string>
+    <string name="tachanun_tsidqatcha">Tzidkatcha</string>
+    <string name="tachanun_morning">Tachanun: am Morgen</string>
+    <string name="tachanun_yes">mit Tachanun</string>
+
+
+    <string name="zmanim_alot_hashachar">Morgendämmerung</string>
+    <string name="zmanim_earliest_tefilin">frühester Zeitpunkt für Tefillin</string>
+    <string name="zmanim_netz">Sonnenaufgang (Nez)</string>
+    <string name="zmanim_latest_shema">spätestes Schma nach GR\"A</string>
+    <string name="zmanim_latest_shema_ma">spätestes Schma nach M\"A</string>
+    <string name="zmanim_latest_tefila">späteste Tefila nach GR\"A</string>
+    <string name="zmanim_latest_tefila_ma">späteste Tefila nach M\"A</string>
+    <string name="zmanim_chatzot">Mittag</string>
+    <string name="zmanim_mincha_gdola">Mincha Gedola</string>
+    <string name="zmanim_mincha_ktana">Mincha Ketana</string>
+    <string name="zmanim_plag">Plag haMincha</string>
+    <string name="zmanim_shqiya">Sonnenuntergang (Schekia)</string>
+    <string name="zmanim_tzeit_hakochavim">Einbruch der Nacht</string>
+    <string name="zmanim_night_rabenu_tam">Nacht nach Rabbenu Tam</string>
+    <string name="zmanim_chatzot_laila">Mitternacht</string>
+    <string name="zmanim_shaa_zmanit_gra">relative Stunde (GR\"A)</string>
+
+
+    <string-array name="ParashaName">
+        <item>Bereschit</item>
+        <item>Noach</item>
+        <item>Lech lecha</item>
+        <item>Wajera</item>
+        <item>Chajei Sarah</item>
+        <item>Toldot</item>
+        <item>Wajetze</item>
+        <item>Wajischlach</item>
+        <item>Wajeschew</item>
+        <item>Miketz</item>
+        <item>Wajigasch</item>
+        <item>Wajechi</item>
+        <item>Schemot</item>
+        <item>Wa\'era</item>
+        <item>Bo</item>
+        <item>Beschalach</item>
+        <item>Jitro</item>
+        <item>Mischpatim</item>
+        <item>Teruma</item>
+        <item>Tezawe</item>
+        <item>Ki Tissa</item>
+        <item>Wajakel</item>
+        <item>Pekudei</item>
+        <item>Wajikra</item>
+        <item>Zaw</item>
+        <item>Schemini</item>
+        <item>Tasria</item>
+        <item>Metzora</item>
+        <item>Acharei mot</item>
+        <item>Kedoschim</item>
+        <item>Emor</item>
+        <item>Behar</item>
+        <item>Bechukotai</item>
+        <item>Bamidbar</item>
+        <item>Nasso</item>
+        <item>Beha\'alotecha</item>
+        <item>Schelach Lecha</item>
+        <item>Korach</item>
+        <item>Chukat</item>
+        <item>Balak</item>
+        <item>Pinchas</item>
+        <item>Matot</item>
+        <item>Massei</item>
+        <item>Dewarim</item>
+        <item>Waetchanan</item>
+        <item>Ekew</item>
+        <item>Re\'eh</item>
+        <item>Schoftim</item>
+        <item>Ki Tetze</item>
+        <item>Ki Tawo</item>
+        <item>Nitzawim</item>
+        <item>Wajelech</item>
+        <item>Ha\'asinu</item>
+        <item>Wezot Habracha</item>
+    </string-array>
+
+    <string-array name="SpecialParashaName">
+        <item>Schekalim</item>
+        <item>Sachor</item>
+        <item>Parah</item>
+        <item>HaChodesch</item>
+    </string-array>
+
+</resources>

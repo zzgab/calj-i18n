@@ -1,0 +1,58 @@
+<resources>
+
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_date_picker">Date</string>
+
+    <!-- Strings related to Settings -->
+
+	<string name="pref_header_location">Geolocation</string>
+	<string name="pref_header_location_summary">Indicate where you are, manage bookmarks</string>
+	
+	<string name="pref_header_rite">Halachic preferences</string>
+	<string name="pref_header_rite_summary"></string>
+
+	<string name="pref_header_display">Display preferences</string>
+	<string name="pref_header_display_summary">Control the app\'s appearance</string>
+
+	<string name="pref_header_custom_events">Custom Dates</string>
+	<string name="pref_header_custom_events_summary">Your anniversaries and Azcarot</string>
+
+    <string name="pref_header_notifications">Notifications</string>
+    <string name="pref_header_notifications_summary"><![CDATA[Reminders for Omer, Shabbat & more]]></string>
+
+    <string name="pref_header_get_help">Need help?</string>
+	
+	
+	<string name="pref_title_pick_fav_city">Saved Cities</string>
+	<string name="long_click_to_remove">Touch-and-hold to remove</string>
+
+	<string name="pref_title_search_city">Search city by name</string>
+	<string name="pref_title_gps">Locate using GPS</string>
+
+    <!-- Cities settings -->
+
+ 	
+ 	<string name="pref_title_show_dafyomi">Show Daf Yomi</string>
+ 	<string name="pref_title_show_tachanun">Show Tachanun</string>
+ 	<string name="pref_title_show_molad">Show Molad</string>
+ 	<string name="pref_title_display_hebrew">Display in Hebrew</string>
+ 	<string name="pref_title_color_theme">Color Scheme</string>
+
+
+ 	<string name="pref_title_nusach">Rite</string>
+
+
+    <!-- Notifications -->
+    <string name="pref_title_pick_omer_notification_time">Omer Reminder</string>
+
+    <string name="pref_title_pick_shabbat_notification_time">Shabbat Candles Reminder</string>
+
+    <string name="pref_title_pick_roshchodesh_notification_time">Rosh Chodesh Reminder</string>
+
+
+    <string name="pref_title_pick_customevent_notif_days">Custom Events Reminder</string>
+
+    <string name="gps_network_not_enabled">GPS is not enabled.</string>
+    <string name="open_location_settings">Open Settings</string>
+
+</resources>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="eve">ערב</string>
+    <string name="from"> </string>
+    <string name="to">עד</string>
+    <string name="and">ו</string>
+    
+    <string-array name="HebrewMonth">
+        <item>ניסן</item>
+        <item>אייר</item>
+        <item>סיון</item>
+        <item>תמוז</item>
+        <item>אב</item>
+        <item>אלול</item>
+        <item>תשרי</item>
+        <item>חשון</item>
+        <item>כסלו</item>
+        <item>טבת</item>
+        <item>שבט</item>
+        <item>אדר</item>
+        <item>אדר ב</item>
+        <item>אדר א</item>
+    </string-array>
+    
+
+	<string-array name="FestivalName">
+		<item>ראש השנה</item>
+		<item>צום גדליה</item>
+		<item>יום כיפור</item>
+		<item>סוכות</item>
+		<item>הושענה רבה</item>
+		<item>שמיני עצרת</item>
+		<item>שמחת תורה</item>
+		<item>חנוכה</item>
+		<item>תענית י בטבת</item>
+		<item>ט"ו בשבט</item>
+		<item>פורים קטן</item>
+		<item>תענית אסתר</item>
+		<item>פורים</item>
+		<item>פורים שושן</item>
+		<item>פסח</item>
+		<item>יום השואה</item>
+		<item>יום הזכרון</item>
+		<item>יום העצמאות</item>
+		<item>פסח שני</item>
+		<item>ל"ג בעומר</item>
+		<item>יום ירושלים</item>
+		<item>שבועות</item>
+		<item>תענית י"ז תמוז</item>
+		<item>תענית ט" באב</item>
+		<item>ט"ו באב</item>
+	</string-array>
+
+	<string name="tachanun_no">ללא תחנון</string>
+	<string name="tachanun_tsidqatcha">צדקתך</string>
+	<string name="tachanun_morning">תחנונים: שחרית</string>
+	<string name="tachanun_yes">עם תחנונים</string>
+
+
+	<string name="zmanim_alot_hashachar">עלות השחר</string>
+	<string name="zmanim_earliest_tefilin">תפילין ושמע</string>
+	<string name="zmanim_netz">הנץ החמה</string>
+	<string name="zmanim_latest_shema">סוף זמן קריאת שמע גר\"א</string>
+	<string name="zmanim_latest_shema_ma">סוף זמן קריאת שמע מ\"א</string>
+	<string name="zmanim_latest_tefila">סוף זמן תפילה גר\"א</string>
+	<string name="zmanim_latest_tefila_ma">סוף זמן תפילה מ\"א</string>
+	<string name="zmanim_chatzot">חצות יום</string>
+	<string name="zmanim_mincha_gdola">מנחה גדולה</string>
+	<string name="zmanim_mincha_ktana">מנחה קטנה</string>
+	<string name="zmanim_plag">פלג המנחה</string>
+	<string name="zmanim_shqiya">שקיעת החמה</string>
+	<string name="zmanim_tzeit_hakochavim">צאת הכוכבים</string>
+	<string name="zmanim_night_rabenu_tam">לילה דר\"ת</string>
+	<string name="zmanim_chatzot_laila">חצות לילה</string>
+	<string name="zmanim_shaa_zmanit_gra">שעה זמנית (גר\"א)</string>
+
+
+	
+	<string-array name="ParashaName">
+		<item>בראשית</item>
+		<item>נח</item>
+		<item>לך לך</item>
+		<item>וירא</item>
+		<item>חיי-שרה</item>
+		<item>תולדות</item>
+		<item>ויצא</item>
+		<item>וישלח</item>
+		<item>וישב</item>
+		<item>מקץ</item>
+		<item>ויגש</item>
+		<item>ויחי</item>
+		<item>שמות</item>
+		<item>וארא</item>
+		<item>בא</item>
+		<item>בשלח</item>
+		<item>יתרו</item>
+		<item>משפטים</item>
+		<item>תרומה</item>
+		<item>תצוה</item>
+		<item>כי-תשא</item>
+		<item>ויקהל</item>
+		<item>פקודי</item>
+		<item>ויקרא</item>
+		<item>צו</item>
+		<item>שמיני</item>
+		<item>תזריע</item>
+		<item>מצורע</item>
+		<item>אחרי מות</item>
+		<item>קדושים</item>
+		<item>אמור</item>
+		<item>בהר</item>
+		<item>בחקתי</item>
+		<item>במדבר</item>
+		<item>נשא</item>
+		<item>בהעלתך</item>
+		<item>שלח</item>
+		<item>קרח</item>
+		<item>חקת</item>
+		<item>בלק</item>
+		<item>פינחס</item>
+		<item>מטות</item>
+		<item>מסעי</item>
+		<item>דברים</item>
+		<item>ואתחנן</item>
+		<item>עקב</item>
+		<item>ראה</item>
+		<item>שפטים</item>
+		<item>כי-תצא</item>
+		<item>כי-תבוא</item>
+		<item>נצבים</item>
+		<item>וילך</item>
+		<item>האזינו</item>
+		<item>וזאת-הברכה</item>
+	</string-array>
+
+	<string-array name="SpecialParashaName">
+		<item>שקלים</item>
+		<item>זכור</item>
+		<item>פרה</item>
+		<item>החדש</item>
+	</string-array>
+
+</resources>

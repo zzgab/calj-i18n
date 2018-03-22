@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tachanunYomHaAtsmautEntries">
+        <item name="0">No Tachanun</item>
+        <item name="1">With Tachanun</item>
+    </string-array>
+
+    <string-array name="changeHDate">
+        <item name="0">Midnight</item>
+        <item name="1">Stars</item>
+    </string-array>
+
+    <string-array name="yesNo">
+        <item name="1">Yes</item>
+        <item name="0">No</item>
+    </string-array>
+
+    <string-array name="lightDark">
+        <item name="0">White background</item>
+        <item name="1">Stars background</item>
+    </string-array>
+
+    <string-array name="ashkenazSefarad">
+        <item name="1">Ashkenaz</item>
+        <item name="0">Sefarad</item>
+    </string-array>
+
+    <string-array name="sofTzomEntries">
+        <item name="0">Rav Pozen (-7.08 deg)</item>
+        <item name="1">20 prop. min after Shqia</item>
+    </string-array>
+
+    <string-array name="shitatAlotHashacharEntries">
+        <item name="ovadia">Rav Ovadia Yossef (72min before Hanetz)</item>
+        <item name="pozen">Rav Pozen (-16.1 deg)</item>
+    </string-array>
+
+    <string-array name="shitatEarliestTefilinEntries">
+        <item name="ovadia">Rav Ovadia Yossef (6min after Alot haShachar)</item>
+        <item name="pozen">Rav Pozen (-11 deg)</item>
+        <item name="otzarot">Otzrot Yerushalaym (-10.2 deg)</item>
+    </string-array>
+
+    <string-array name="shitatLailaRabbenuTamEntries">
+        <item name="ovadia">Rav Ovadia Yossef (72min after Shekiya)</item>
+        <item name="pozen">Rav Pozen (-16.1 deg)</item>
+    </string-array>
+
+    <string-array name="shitatKochavimEntries">
+        <item name="ovadia">Rav Ovadia Yossef (13.5min after Shekiya)</item>
+        <item name="pozen">Rav Pozen (-7.08 deg)</item>
+    </string-array>
+
+    <string-array name="notifOmerEntries">
+        <item name="0">Off</item>
+        <item name="1">Stars</item>
+        <item name="2">8:00 pm</item>
+        <item name="3">8:30 pm</item>
+        <item name="4">9:00 pm</item>
+    </string-array>
+
+    <string-array name="notifOmerShowPrevEntries">
+        <item name="0">New count</item>
+        <item name="1">Previous count</item>
+    </string-array>
+
+    <string-array name="notifShabbatEntries">
+        <item name="0">Off</item>
+        <item name="1">30 min before</item>
+        <item name="2">60 min before</item>
+        <item name="3">5 hrs before</item>
+    </string-array>
+
+    <string-array name="notifRoshChodeshEntries">
+        <item name="0">Off</item>
+        <item name="1">Eve 2PM</item>
+        <item name="2">Eve 7PM</item>
+    </string-array>
+
+    <string-array name="notifCustomDateDaysEntries">
+        <item name="0">Off</item>
+        <item name="1">Same Day</item>
+        <item name="2">One Day Before</item>
+        <item name="3">Two Days Before</item>
+        <item name="4">One Week Before</item>
+        <item name="5">Two Weeks Before</item>
+    </string-array>
+
+    <string-array name="spinner_candle_minutes_entries">
+        <item name="0">Auto (18min)</item>
+        <item name="20">20min</item>
+        <item name="22">22min</item>
+        <item name="30">30min</item>
+        <item name="40">40min</item>
+    </string-array>
+
+</resources>

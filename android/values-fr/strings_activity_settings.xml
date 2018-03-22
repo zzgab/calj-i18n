@@ -1,0 +1,58 @@
+<resources>
+
+    <string name="title_activity_settings">Réglages</string>
+    <string name="title_activity_date_picker">Date</string>
+
+    <!-- Strings related to Settings -->
+
+	<string name="pref_header_location">Position géographique</string>
+	<string name="pref_header_location_summary">Indiquez votre ville, gérez vos marque-pages</string>
+	
+	<string name="pref_header_rite">Préférences halakhiques</string>
+	<string name="pref_header_rite_summary"></string>
+	
+	<string name="pref_header_display">Préférences d\'affichage</string>
+	<string name="pref_header_display_summary">Contrôlez l\'apparence de l\'application</string>
+	
+	<string name="pref_header_custom_events">Dates personnalisées</string>
+	<string name="pref_header_custom_events_summary">Vos anniversaires et azcarot</string>
+
+    <string name="pref_header_notifications">Notifications</string>
+    <string name="pref_header_notifications_summary"><![CDATA[Des rappels pour le Omer, Shabbat & autres]]></string>
+
+    <string name="pref_header_get_help">Besoin d\'aide ?</string>
+	
+	<string name="pref_title_pick_fav_city">Villes enregistrées</string>
+	<string name="long_click_to_remove">Faire une pression longue pour supprimer</string>
+
+	<string name="pref_title_search_city">Rechercher une ville par nom</string>
+	<string name="pref_title_gps">Détecter par GPS</string>
+
+    <!-- Cities settings -->
+
+
+ 	<string name="pref_title_show_dafyomi">Afficher Daf Yomi</string>
+ 	<string name="pref_title_show_tachanun">Afficher Taḥanoun</string>
+ 	<string name="pref_title_show_molad">Afficher Molad</string>
+ 	<string name="pref_title_display_hebrew">Afficher en hébreu</string>
+ 	<string name="pref_title_color_theme">Couleurs</string>
+
+
+    <string name="pref_title_nusach">Rite</string>
+
+
+
+    <!-- Notifications -->
+    <string name="pref_title_pick_omer_notification_time">Rappel du Omer</string>
+
+    <string name="pref_title_pick_shabbat_notification_time">Rappel entrée de Shabbat</string>
+
+
+    <string name="pref_title_pick_roshchodesh_notification_time">Rappel Rosh Ḥodesh</string>
+
+    <string name="pref_title_pick_customevent_notif_days">Rappels Dates Perso</string>
+
+    <string name="gps_network_not_enabled">Le GPS n\'est pas actif.</string>
+    <string name="open_location_settings">Ouvrir les Réglages</string>
+
+</resources>

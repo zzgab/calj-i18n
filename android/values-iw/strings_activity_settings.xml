@@ -1,0 +1,62 @@
+<resources>
+
+    <string name="title_activity_settings">הגדרות</string>
+    <string name="title_activity_date_picker">תאריך</string>
+
+    <!-- Strings related to Settings -->
+
+	<string name="pref_header_location">מיקום</string>
+	<string name="pref_header_location_summary">Indicate where you are, manage bookmarks</string>
+	
+	<string name="pref_header_rite">הלכה</string>
+	<string name="pref_header_rite_summary"></string>
+
+	<string name="pref_header_display">תצוגה</string>
+	<string name="pref_header_display_summary">Control the app\'s appearance</string>
+
+	<string name="pref_header_custom_events">האירועים שלי</string>
+	<string name="pref_header_custom_events_summary">Your anniversaries and Azcarot</string>
+
+    <string name="pref_header_notifications">התראות</string>
+    <string name="pref_header_notifications_summary"><![CDATA[Reminders for Omer, Shabbat & more]]></string>
+
+    <string name="pref_header_get_help">צור קשר</string>
+	
+	
+	<string name="pref_title_pick_fav_city">ערים מועדפות</string>
+	<string name="long_click_to_remove">Touch-and-hold to remove</string>
+
+	<string name="pref_title_search_city">חפש עיר</string>
+	<string name="pref_title_gps">אתר כעת</string>
+
+    <!-- Cities settings -->
+
+ 	
+ 	<string name="pref_title_show_dafyomi">הצג דף יומי</string>
+ 	<string name="pref_title_show_tachanun">הצג תחנון</string>
+ 	<string name="pref_title_show_molad">הצג מולד</string>
+ 	<string name="pref_title_display_hebrew">Display in Hebrew</string>
+ 	<string name="pref_title_color_theme">ערכת צבע</string>
+
+
+ 	<string name="pref_title_nusach">נוסח</string>
+
+
+    <!-- Notifications -->
+    <string name="pref_title_pick_omer_notification_time">ספירת העומר</string>
+
+    <string name="pref_title_pick_shabbat_notification_time">הדלקת נרות שבת</string>
+
+    <string name="pref_title_pick_roshchodesh_notification_time">ראש חדש</string>
+
+
+    <string name="pref_title_pick_customevent_notif_days">האירועים שלי</string>
+
+    <string name="pref_title_sof_tzom_derabanan">סוף צום דרבנן</string>
+    <string name="pref_title_shitat_alot_hashachar">שיטת עלות השחר</string>
+    <string name="pref_title_shitat_earliest_tefilin">שיטת זמן תפילין</string>
+
+    <string name="gps_network_not_enabled">GPS is not enabled.</string>
+    <string name="open_location_settings">Open Settings</string>
+
+</resources>

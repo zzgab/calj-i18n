@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="eve">eve</string>
+    <string name="from">from</string>
+    <string name="to">to</string>
+    <string name="and">and</string>
+    
+    <string-array name="HebrewMonth">
+        <item>Nisan</item>
+        <item>Iyar</item>
+        <item>Sivan</item>
+        <item>Tamuz</item>
+        <item>Av</item>
+        <item>Elul</item>
+        <item>Tishrei</item>
+        <item>Cheshvan</item>
+        <item>Kislev</item>
+        <item>Tevet</item>
+        <item>Shvat</item>
+        <item>Adar</item>
+        <item>Adar Sheni</item>
+        <item>Adar Rishon</item>
+    </string-array>
+    
+
+	<string-array name="FestivalName">
+	   	<item>Rosh haShana</item>
+		<item>Fast of Gedalia</item>
+		<item>Yom Kippur</item>
+		<item>Succoth</item>
+		<item>Hoshaana Rabba</item>
+		<item>Shemini Atseret</item>
+		<item>Simchat Torah</item>
+		<item>Chanuka</item>
+		<item>Fast of 10 Tevet</item>
+		<item>Tu b\'Shvat</item>
+		<item>Purim Qatan</item>
+		<item>Fast of Ester</item>
+		<item>Purim</item>
+		<item>Purim Shushan</item>
+		<item>Pesach</item>
+		<item>Yom haShoa</item>
+		<item>Yom haZicaron</item>
+		<item>Yom haAtsma\'ut</item>
+        <item>Pesach Sheni</item>
+		<item>Lag ba\'Omer</item>
+		<item>Yom Yerushalaym</item>
+		<item>Shavu\'ot</item>
+		<item>Fast of 17 Tamuz</item>
+		<item>Fast of 9 Av</item>
+		<item>Tu b\' Av</item>
+	</string-array>
+
+	<string name="tachanun_no">No Tachanun</string>
+	<string name="tachanun_tsidqatcha">Tzidqatcha</string>
+	<string name="tachanun_morning">Tachanun: morning</string>
+	<string name="tachanun_yes">With Tachanun</string>
+
+
+	<string name="zmanim_alot_hashachar">Alot haShachar</string>
+	<string name="zmanim_earliest_tefilin">Earliest Tefilin</string>
+	<string name="zmanim_netz">Hanetz HaChama</string>
+	<string name="zmanim_latest_shema">Latest Shema GR\"A</string>
+	<string name="zmanim_latest_shema_ma">Latest Shema M\"A</string>
+	<string name="zmanim_latest_tefila">Latest Tefila GR\"A</string>
+	<string name="zmanim_latest_tefila_ma">Latest Tefila M\"A</string>
+	<string name="zmanim_chatzot">Chatzot yom</string>
+	<string name="zmanim_mincha_gdola">Mincha Gdola</string>
+	<string name="zmanim_mincha_ktana">Mincha Ktana</string>
+	<string name="zmanim_plag">Plag haMincha</string>
+	<string name="zmanim_shqiya">Shkiya</string>
+	<string name="zmanim_tzeit_hakochavim">Stars</string>
+	<string name="zmanim_night_rabenu_tam">Night of R.Tam</string>
+	<string name="zmanim_chatzot_laila">Chatzot Layla</string>
+	<string name="zmanim_shaa_zmanit_gra">Seasonal Hour (GR\"A)</string>
+		
+	
+	<string-array name="ParashaName">
+		<item>Bereshit</item>
+		<item>Noach</item>
+		<item>Lech lecha</item>
+		<item>Vayera</item>
+		<item>Chayei Sarah</item>
+		<item>Toldot</item>
+		<item>Vayetse</item>
+		<item>Vayishlach</item>
+		<item>Vayeshev</item>
+		<item>Miqetz</item>
+		<item>Vayigash</item>
+		<item>Vayechi</item>
+		<item>Shemot</item>
+		<item>Va\'era</item>
+		<item>Bo</item>
+		<item>Beshalach</item>
+		<item>Yitro</item>
+		<item>Mishpatim</item>
+		<item>Terouma</item>
+		<item>Tetsaveh</item>
+		<item>Ki tissa</item>
+		<item>Vayaq\'hel</item>
+		<item>Peqoudei</item>
+		<item>Vayiqra</item>
+		<item>Tsav</item>
+		<item>Shemini</item>
+		<item>Tazria</item>
+		<item>Metsora</item>
+		<item>Acharei moth</item>
+		<item>Qedoshim</item>
+		<item>Emor</item>
+		<item>Behar</item>
+		<item>Bechuqotai</item>
+		<item>Bamidbar</item>
+		<item>Nasso</item>
+		<item>Beha\'alotecha</item>
+		<item>Shelach Lecha</item>
+		<item>Korach</item>
+		<item>Chuqat</item>
+		<item>Balaq</item>
+		<item>Pinchas</item>
+		<item>Matot</item>
+		<item>Mass\'ei</item>
+		<item>Devarim</item>
+		<item>Vaetchanan</item>
+		<item>Eqev</item>
+		<item>Re\'eh</item>
+		<item>Shoftim</item>
+		<item>Ki tetse</item>
+		<item>Ki tavo</item>
+		<item>Nitsavim</item>
+		<item>Vayelech</item>
+		<item>Ha\'azinu</item>
+		<item>Vezot haberacha</item>
+	</string-array>
+
+	<string-array name="SpecialParashaName">
+		<item>Sheqalim</item>
+		<item>Zakhor</item>
+		<item>Parah</item>
+		<item>HaChodesh</item>
+	</string-array>
+
+</resources>

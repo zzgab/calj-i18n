@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="languageCode">en</string>
+
+    <string name="app_name">CalJ</string>
+    <string name="title_section_date">Date</string>
+    <string name="title_section_festivals">Festivals</string>
+    <string name="title_section_brachos">Mini-Siddur</string>
+    <string name="title_section_calendar">Calendar</string>
+    <string name="title_section_more">More</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="nextHoliday">Next Event:</string>
+
+    <string name="desc_prev">Previous</string>
+    <string name="desc_next">Next</string>
+
+    <string name="confirm_delete_city_format">Remove bookmark:\n\n%s ?</string>
+    <string name="confirm_suppress">Remove</string>
+    <string name="confirm_cancel">Cancel</string>
+    <string name="desc_toggle">Toggle Hebrew/Secular view</string>
+
+    <string name="Today">Today</string>
+
+    <string name="enter_city_to_search">City name</string>
+
+    <string name="dialog_search">Search</string>
+    <string name="btn_pick_date">Pick</string>
+
+    <string name="omer_last_night_was">Last night was:</string>
+    <string name="omer_tonight_we_count">Tonight we count:</string>
+    <string name="omerCount1Pattern">1 day in the Omer</string>
+    <string name="omerCountPattern">%d days in the Omer</string>
+
+    <string name="next_roshchodesh">Next Rosh Chodesh</string>
+    <string name="Tonight">Tonight</string>
+    <string name="current_roshchodesh">Rosh Chodesh</string>
+
+    <string name="Shabbat">Shabbat</string>
+
+    <string name="add_new_event___">Add New Event&#8230;</string>
+    <string name="import_events">Import Events</string>
+    <string name="export_events">Export Events</string>
+    <string name="my_events">My Events</string>
+    <string name="event_name">Event Name:</string>
+    <string name="Save">Save</string>
+    <string name="Delete">Delete</string>
+    <string name="custom_event_date_label">Event Date:</string>
+    <string name="pickDateCaption">Pick Date&#8230;</string>
+    <string name="are_you_sure_to_delete_custom_event">Remove this Event?</string>
+
+    <string name="typeOfEvent">Event Type:</string>
+    <string name="Birthday">Birthday</string>
+    <string name="Yahrzeit">Yahrzeit</string>
+    <string name="title_activity_psalm119">Psalm 119</string>
+    <string name="dont_forget_to_count">Don\'t forget to count!</string>
+    <string name="alert_shabbat_candle_time">Candles (%1$s): %2$s</string>
+    <string name="rosh_chodesh_notif_title">Rosh Chodesh</string>
+    <string name="rosh_chodesh_notif_content_1d">Rosh Chodesh tonight</string>
+    <string name="rosh_chodesh_notif_content_2d">Rosh Chodesh tonight (two days)</string>
+    <string name="rosh_chodesh_notif_content_today_and_tomorrow">Rosh Chodesh today and tomorrow</string>
+    <string name="custom_event_notif_title">Custom Event</string>
+    <string name="bircat_levana">Birkat HaLevana:</string>
+
+    <string name="pref_title_mincha_gdola_lachumra">Mincha G\'dola Lachumra</string>
+    <string name="pref_summary_mincha_gdola_lachumra">Use 30 fixed minutes after\nChatzot in winter</string>
+    <string name="pref_title_sof_tzom_derabanan">End of Tzom Derabbanan</string>
+
+    <string name="pref_title_shitat_alot_hashachar">Opinion Alot haShachar</string>
+    <string name="pref_title_shitat_earliest_tefilin">Opinion Earliest Tefilin</string>
+
+    <string name="share">Share with…</string>
+    <string name="read_tehilim_with_calj">Read Tehilim with CalJ</string>
+    <string name="or_download_free">or Download for Free</string>
+    <string name="pref_title_show_tzadik">Show Hilulot</string>
+    <string name="LANG">en</string>
+    <string name="twitter_msg">Try this FREE #Jewish Calendar App</string>
+    <string name="title_activity_sidra_lubavitch">\"La Sidra\" (Beth Lubavitch)</string>
+    <string name="title_coeur_semaine">\"La Parasha selon Rabbi Naḥman\"</string>
+
+    <string name="title_activity_sidra_webview">Sidra</string>
+    <string name="pref_title_ui_language">Language</string>
+    <string name="pref_header_facebook">Log in with Facebook</string>
+    <string name="pref_header_facebook_summary">Use your Facebook login to synchronize your CalJ settings</string>
+
+    <string name="facebook_why_login">
+        Connect CalJ with you Facebook account, in order to save all your settings, anniversaries,
+        and favorite cities.\n
+        \n
+        If you use multiple devices, you will be able to synchronize your
+        CalJ data between them.
+    </string>
+    <string name="facebook_permissions_usage">
+        CalJ will never post messages silently on your behalf, nor share any of your personal data with
+        third parties. The Facebook login is used solely for identification purposes in order to
+        store your CalJ settings in the Cloud for your own private use.
+    </string>
+    <string name="skip">SKIP</string>
+    <string name="i_dont_have_facebook">I don\'t use\nFacebook</string>
+	<string name="facebook_why_like">Show your support to CalJ, by liking my page:\n
+		\n
+		https://facebook.com/calj.net\n
+    	\n
+	    You can invite your friends to give me a Like too, and help me promote the app. Spread the word!</string>
+
+    <string name="title_activity_hilula">Hilula</string>
+    <string name="map_activity_title">GPS</string>
+
+    <string name="title_activity_compass">Jerusalem Compass</string>
+    <string name="position" formatted="false">Position: %.3f,%.3f</string>
+    <string name="heading_degrees" formatted="false">Heading: %d</string>
+    <string name="omer_action_count_now">Count Now</string>
+    <string name="omer_notif_title_format">Omer %d</string>
+    <string name="omer_notif_title_last_night_format">Last Night Was: Omer %d</string>
+
+    <string name="title_activity_omer">Counting the Omer</string>
+    <string name="did_you_start_your_meal_before_nightfall">Did you begin your meal before nightfall?</string>
+    <string name="before">Before</string>
+    <string name="after">After</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="gps_unavailable">GPS is unavailable - Reduced accuracy</string>
+    <string name="pref_title_change_hdate">Jewish date changing time</string>
+
+    <string name="title_activity_siddur_webview">Siddur</string>
+    <string name="import_events_explanation">Paste in the box below, the code obtained when exporting your custom anniversaries from the iOS device :</string>
+    <string name="export_events_explanation">Copy the code below, and keep it in a safe place, for future import into another device:</string>
+    <string name="import_button">Import</string>
+    <string name="dialog_export_calendar">Do you wish to export to the calendar of your choice, the festivals that appear on this screen?</string>
+    <string name="dialog_export_calendar_no_calendar">No registered calendars found.</string>
+    <string name="dialog_export_calendar_choose">Choose Calendar</string>
+    <string name="dialog_export_calendar_success">Festivals transferred successfully.</string>
+    <string name="pref_title_tachanun_yom_haatsmaut">Tachanun on Yom HaAtsma\'ut</string>
+    <string name="pref_title_pick_omer_notification_show_prev">Omer Count on Alarm</string>
+    <string name="pref_title_tachanun_notification">Tachanunim</string>
+    <string name="notif_tachanun_off_body">Not saying Tachanunim for the next few days.</string>
+    <string name="notif_tachanun_on_body">We got back to saying Tachanunim.</string>
+    <string name="place_name">Place Name:</string>
+    <string name="special_candle_light_time">Candle Light Time:</string>
+    <string name="candles">Candles:</string>
+    <string name="pref_title_shitat_kochavim">Tzet haKochavim</string>
+    <string name="pref_title_shitat_laila_rabbenu_tam">Night of Rabbenu Tam</string>
+
+</resources>

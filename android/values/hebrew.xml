@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string translatable="false" name="hebrew_zmanim">זמנים</string>
+    
+    <string translatable="false" name="hebrew_tachanun_no">ללא תחנון</string>
+	<string translatable="false" name="hebrew_tachanun_tsidqatcha">צדקתך</string>
+	<string translatable="false" name="hebrew_tachanun_morning">תחנונים: שחרית</string>
+	<string translatable="false" name="hebrew_tachanun_yes">עם תחנונים</string>
+    
+	
+	<string translatable="false" name="hebrew_next_roshchodesh">ראש חדש הבא</string>
+	<string translatable="false" name="hebrew_Tonight">הערב</string>
+	<string translatable="false" name="hebrew_current_roshchodesh">ראש חדש</string>
+
+	
+	<string translatable="false" name="hebrew_zmanim_alot_hashachar">עלות השחר</string>
+	<string translatable="false" name="hebrew_zmanim_earliest_tefilin">תפילין ושמע</string>
+	<string translatable="false" name="hebrew_zmanim_netz">הנץ החמה</string>
+	<string translatable="false" name="hebrew_zmanim_latest_shema">סוף זמן קריאת שמע גר\"א</string>
+	<string translatable="false" name="hebrew_zmanim_latest_shema_ma">סוף זמן קריאת שמע מ\"א</string>
+	<string translatable="false" name="hebrew_zmanim_latest_tefila">סוף זמן תפילה גר\"א</string>
+	<string translatable="false" name="hebrew_zmanim_latest_tefila_ma">סוף זמן תפילה מ\"א</string>
+	<string translatable="false" name="hebrew_zmanim_chatzot">חצות יום</string>
+	<string translatable="false" name="hebrew_zmanim_mincha_gdola">מנחה גדולה</string>
+	<string translatable="false" name="hebrew_zmanim_mincha_ktana">מנחה קטנה</string>
+	<string translatable="false" name="hebrew_zmanim_plag">פלג המנחה</string>
+	<string translatable="false" name="hebrew_zmanim_shqiya">שקיעת החמה</string>
+	<string translatable="false" name="hebrew_zmanim_tzeit_hakochavim">צאת הכוכבים</string>
+	<string translatable="false" name="hebrew_zmanim_night_rabenu">לילה דר\"ת</string>
+	<string translatable="false" name="hebrew_zmanim_chatzot_laila">חצות לילה</string>
+	<string translatable="false" name="hebrew_zmanim_shaa_zmanit_gra">שעה זמנית (גר\"א)</string>
+	<string translatable="false" name="hebrew_bircat_levana">ברכת הלבנה :</string>
+
+
+	<string-array translatable="false" name="hebrew_FestivalName">
+	 	<item>ראש השנה</item>
+		<item>צום גדליה</item>
+		<item>יום כיפור</item>
+		<item>סוכות</item>
+		<item>הושענה רבה</item>
+		<item>שמיני עצרת</item>
+		<item>שמחת תורה</item>
+		<item>חנוכה</item>
+		<item>תענית י בטבת</item>
+		<item>ט"ו בשבט</item>
+		<item>פורים קטן</item>
+		<item>תענית אסתר</item>
+		<item>פורים</item>
+		<item>פורים שושן</item>		
+		<item>פסח</item>
+		<item>יום השואה</item>
+		<item>יום הזכרון</item>
+		<item>יום העצמאות</item>
+        <item>פסח שני</item>
+		<item>ל"ג בעומר</item>
+		<item>יום ירושלים</item>
+		<item>שבועות</item>
+		<item>תענית י"ז תמוז</item>
+		<item>תענית ט" באב</item>
+		<item>ט"ו באב</item>
+	</string-array>
+
+
+
+</resources>

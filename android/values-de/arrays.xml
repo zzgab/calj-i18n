@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="changeHDate">
+        <item name="0">Mitternacht</item>
+        <item name="1">Einbruch der Nacht</item>
+    </string-array>
+
+
+    <string-array name="yesNo">
+        <item name="1">Ja</item>
+        <item name="0">Nein</item>
+    </string-array>
+
+    <string-array name="lightDark">
+        <item name="0">weisser Hintergrund</item>
+        <item name="1">Sternenhimmel als Hintergrund</item>
+    </string-array>
+
+    <string-array name="ashkenazSefarad">
+        <item name="1">Aschkenas</item>
+        <item name="0">Sefarad</item>
+    </string-array>
+
+    <string-array name="sofTzomEntries">
+        <item name="0">Einbruch der Nacht</item>
+        <item name="1">genau 20 Minuten nach Schkia</item>
+    </string-array>
+
+    <string-array name="shitatAlotHashacharEntries">
+        <item name="ovadia">Raw Ovadia Jossef (72 Minuten vor Netz)</item>
+        <item name="pozen">Raw Pozen (-16.1 Grad)</item>
+    </string-array>
+    <string-array name="shitatEarliestTefilinEntries">
+        <item name="ovadia">Rav Ovadia Jossef (6 Minuten nach Morgendämmerung)</item>
+        <item name="pozen">Raw Pozen (-11 Grad)</item>
+        <item name="otzarot">Ozrot Jeruschalaim (-10.2 Grad)</item>
+    </string-array>
+    <string-array name="shitatLailaRabbenuTamEntries">
+        <item name="ovadia">Raw Ovadia Jossef (72 Minuten nach Schekia)</item>
+        <item name="pozen">Raw Pozen (-16.1 Grad)</item>
+    </string-array>
+
+    <!-- Notifications -->
+    <string-array name="notifOmerEntries">
+        <item name="0">Aus</item>
+        <item name="1">Sterne</item>
+        <item name="2">20:00</item>
+        <item name="3">20:30</item>
+        <item name="4">21:00</item>
+    </string-array>
+
+    <string-array name="notifOmerShowPrevEntries">
+        <item name="0">neue Zählung</item>
+        <item name="1">vorherige Zählung</item>
+    </string-array>
+
+    <string-array name="notifShabbatEntries">
+        <item name="0">Aus</item>
+        <item name="1">30 Minuten vorher</item>
+        <item name="2">60 Minuten vorher</item>
+        <item name="3">5 Stunden vorher</item>
+    </string-array>
+
+    <string-array name="notifRoshChodeshEntries">
+        <item name="0">Aus</item>
+        <item name="1">Vorabend 14:00 Uhr</item>
+        <item name="2">Vorabend 19:00 Uhr</item>
+    </string-array>
+
+
+    <string-array name="notifCustomDateDaysEntries">
+        <item name="0">Aus</item>
+        <item name="1">gleichentags</item>
+        <item name="2">ein Tag vorher</item>
+        <item name="3">zwei Tage vorher</item>
+        <item name="4">eine Woche vorher</item>
+        <item name="5">zwei Wochen vorher</item>
+    </string-array>
+
+    <integer-array name="spinner_candle_minutes_values">
+        <item>-1</item>
+        <item>20</item>
+        <item>22</item>
+        <item>30</item>
+        <item>40</item>
+    </integer-array>
+
+    <string-array name="spinner_candle_minutes_entries">
+        <item name="0">Auto (18 Minuten)</item>
+        <item name="20">20Minuten</item>
+        <item name="22">22Minuten</item>
+        <item name="30">30Minuten</item>
+        <item name="40">40Minuten</item>
+    </string-array>
+
+    <string-array name="tachanunYomHaAtsmautEntries">
+        <item name="0">ohne Tachanun</item>
+        <item name="1">mit Tachanun</item>
+    </string-array>
+
+
+    <string-array name="shitatKochavimEntries">
+        <item name="ovadia">Raw Owadia Jossef (13.5 Minuten nach Schekija)</item>
+        <item name="pozen">Raw Posen (-7.08 Grad)</item>
+    </string-array>
+</resources>

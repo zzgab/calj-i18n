@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="eve">soir</string>
+    <string name="from">du</string>
+    <string name="to">au</string>
+    <string name="and">et</string>
+
+    <string-array name="HebrewMonth">
+        <item>Nissan</item>
+        <item>Iyar</item>
+        <item>Sivan</item>
+        <item>Tamouz</item>
+        <item>Av</item>
+        <item>Eloul</item>
+        <item>Tishri</item>
+        <item>Ḥeshvan</item>
+        <item>Kislev</item>
+        <item>Tevet</item>
+        <item>Shvat</item>
+        <item>Adar</item>
+        <item>Adar Sheni</item>
+        <item>Adar Rishon</item>
+    </string-array>
+    
+    
+	<string-array name="FestivalName">
+	    <item>Rosh haShana</item>
+		<item>Jeûne de Guédalia</item>
+		<item>Yom Kippour</item>
+		<item>Souccoth</item>
+		<item>Hoshaâna Rabba</item>
+		<item>Shemini Âtseret</item>
+		<item>Simḥat\' Torah</item>
+		<item>Ḥanouka</item>
+		<item>Jeûne du 10 Tevet</item>
+		<item>Tou bi Shvat</item>
+		<item>Pourim Qatan</item>
+		<item>Jeûne d\'Esther</item>
+		<item>Pourim</item>
+		<item>Pourim Shoushan</item>
+		<item>Pessaḥ</item>
+		<item>Yom haShoa</item>
+		<item>Yom haZicaron</item>
+		<item>Yom haÂtsma\'out</item>
+        <item>Pessaḥ Sheni</item>
+        <item>Lag ba\'Ômer</item>
+		<item>Yom Yeroushalayim</item>
+		<item>Shavou\'ôt</item>
+		<item>Jeûne du 17 Tamouz</item>
+		<item>Jeûne du 9 Av</item>
+		<item>Tou bé Av</item>
+	</string-array>
+
+	<string name="tachanun_no">Sans Taḥanoun</string>
+	<string name="tachanun_tsidqatcha">Tsidqatkha</string>
+	<string name="tachanun_morning">Taḥanounim le matin</string>
+	<string name="tachanun_yes">Avec Taḥanounim</string>
+
+	
+	<string name="zmanim_alot_hashachar">Alot haShaḥar</string>
+	<string name="zmanim_earliest_tefilin">Début tefilin</string>
+	<string name="zmanim_netz">Hanetz haḤama</string>
+	<string name="zmanim_latest_shema">Limite Shema GR\"A</string>
+	<string name="zmanim_latest_shema_ma">Limite Shema M\"A</string>
+	<string name="zmanim_latest_tefila">Limite Tefila GR\"A</string>
+	<string name="zmanim_latest_tefila_ma">Limite Tefila M\"A</string>
+	<string name="zmanim_chatzot">Ḥatzot yom</string>
+	<string name="zmanim_mincha_gdola">Minḥa Guedola</string>
+	<string name="zmanim_mincha_ktana">Minḥa Ketana</string>
+	<string name="zmanim_plag">Plag haMinḥa</string>
+	<string name="zmanim_shqiya">Sheqyia</string>
+	<string name="zmanim_tzeit_hakochavim">Sortie des étoiles</string>
+	<string name="zmanim_night_rabenu_tam">Nuit de R.Tam</string>
+	<string name="zmanim_chatzot_laila">Ḥatzot Laïla</string>
+	<string name="zmanim_shaa_zmanit_gra">Heure saisonnière (GR\"A)</string>
+
+    <string-array name="ParashaName">
+        <item>Bereshit</item>
+        <item>Noaḥ</item>
+        <item>Lekh lekha</item>
+        <item>Vayera</item>
+        <item>Ḥayei-Sarah</item>
+        <item>Toldot</item>
+        <item>Vayetse</item>
+        <item>Vayishlaḥ</item>
+        <item>Vayeshev</item>
+        <item>Miqetz</item>
+        <item>Vayigash</item>
+        <item>Vayeḥi</item>
+        <item>Shemot</item>
+        <item>Va\'era</item>
+        <item>Bo</item>
+        <item>Beshalaḥ</item>
+        <item>Yitro</item>
+        <item>Mishpatim</item>
+        <item>Terouma</item>
+        <item>Tetsaveh</item>
+        <item>Ki-Tissa</item>
+        <item>Vayaq\'hel</item>
+        <item>Peqoudei</item>
+        <item>Vayiqra</item>
+        <item>Tsav</item>
+        <item>Shemini</item>
+        <item>Tazria</item>
+        <item>Metsora</item>
+        <item>Aḥarei moth</item>
+        <item>Qedoshim</item>
+        <item>Emor</item>
+        <item>Behar</item>
+        <item>Beḥouqotaï</item>
+        <item>Bamidbar</item>
+        <item>Nasso</item>
+        <item>Behaâlotekha</item>
+        <item>Shelaḥ</item>
+        <item>Qoraḥ</item>
+        <item>Ḥouqat</item>
+        <item>Balaq</item>
+        <item>Pinḥas</item>
+        <item>Matot</item>
+        <item>Mass\'ei</item>
+        <item>Devarim</item>
+        <item>Vaetḥanan</item>
+        <item>Eqev</item>
+        <item>Re\'eh</item>
+        <item>Shoftim</item>
+        <item>Ki-Tetse</item>
+        <item>Ki-Tavo</item>
+        <item>Nitsavim</item>
+        <item>Vayelekh</item>
+        <item>Ha\'azinou</item>
+        <item>Vezot-Haberakha</item>
+    </string-array>
+
+    <string-array name="SpecialParashaName">
+        <item>Sheqalim</item>
+        <item>Zakhor</item>
+        <item>Parah</item>
+        <item>HaḤodesh</item>
+    </string-array>
+
+</resources>
