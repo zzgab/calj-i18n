@@ -137,4 +137,34 @@
     <string name="pref_title_shitat_kochavim">צאת הכוכבים</string>
     <string name="pref_title_shitat_laila_rabbenu_tam">לילה דרבנו תם</string>
 
+    <string name="zimoun">זימון:</string>
+    <string name="on_repond">:עונים</string>
+    <string name="il_reprend">המברך:</string>
+    <string name="succot">בסוכות:</string>
+    <string name="minyan">במניין:</string>
+    <string name="purim">בפורים:</string>
+    <string name="chanuka">בחנוכה:</string>
+    <string name="low_voice">בלחש:</string>
+    <string name="begin_bircat_here">בלי זימון, מתחילים כאן:</string>
+    <string name="rosh_chodesh">בראש חדש:</string>
+    <string name="teshuva">בעשרה ימי תשובה:</string>
+    <string name="guest_mevarech">ברכת האורח:</string>
+    <string name="pesach">בפסח:</string>
+
+    <!-- Google Translate -->
+    <string name="resolving_city_name">אנחנו מנסים לזהות את השם ואת אזור הזמן של המקום.\nאנא המתן…</string>
+    <string name="failed_to_resolve_timezone">לא הצלחנו להתחבר לאינטרנט כדי לזהות את אזור הזמן של המקום שנבחר.
+        \n\n
+        במקום זאת, נשתמש באזור הזמן הנוכחי של המכשיר.
+        \n\n
+        אם אתה חושב שזה לא הערך הנכון, שנה את אזור הזמן של המערכת ונסה שוב.</string>
+    <string name="successfully_resolved_timezone">
+        מזל טוב!
+        \n\n
+        זיהנו בהצלחה את מקומך. אתה עומד להוסיף את העיר למקומות המועדפים שלך.
+    </string>
+    <string name="no_cities_results_found">אין תוצאות.</string>
+    <string name="waiting_for_gps_signal">ממתין לאות GPS…</string>
+    <string name="MAP">מפה</string>
+
 </resources>

@@ -140,4 +140,26 @@
     <string name="candles">Kerzen:</string>
     <string name="pref_title_shitat_laila_rabbenu_tam">Nacht nach Rabbenu Tam</string>
 
+    <string name="zimoun">Simun</string>
+    <string name="on_repond">Antwort</string>
+    <string name="il_reprend">Er fährt fort</string>
+    <string name="succot">Sukkot</string>
+    <string name="minyan">Minyan</string>
+    <string name="purim">Purim</string>
+    <string name="chanuka">Chanuka</string>
+    <string name="low_voice">leise</string>
+    <string name="begin_bircat_here">Gibt es kein Simun beginnt man hier:</string>
+    <string name="rosh_chodesh">Rosch Chodesch</string>
+    <string name="teshuva">10 Tage der Umkehr:</string>
+    <string name="guest_mevarech">Der Gast segnet den Gastgeber:</string>
+    <string name="pesach">Pessach</string>
+
+    <!-- Google Translate -->
+    <string name="resolving_city_name">CalJ versucht, den Namen und die Zeitzone des Ortes aufzulösen. Bitte warten…</string>
+    <string name="failed_to_resolve_timezone">CalJ konnte keine Verbindung zum Internet herstellen, um die Zeitzone des ausgewählten Ortes zu erkennen.\n\nWir verwenden stattdessen die aktuelle Zeitzone Ihres Geräts.\n\nWenn Sie der Meinung sind, dass dies nicht der richtige Wert ist, ändern Sie die Zeitzone Ihres Systems und versuchen Sie es erneut.</string>
+    <string name="successfully_resolved_timezone">Glückwunsch!\n\nCalJ hat deinen Platz erfolgreich identifiziert. Sie sind dabei, die Stadt zu Ihren Lesezeichen hinzuzufügen.</string>
+    <string name="no_cities_results_found">Keine Ergebnisse gefunden.</string>
+    <string name="waiting_for_gps_signal">Warten auf GPS-Signal…</string>
+    <string name="MAP">Karte</string>
+
 </resources>

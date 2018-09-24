@@ -41,9 +41,6 @@
     <string-array translatable="false" name="notifOmerEntryValues">
         <item name="0">-1</item>
         <item name="1">0</item>
-        <item name="2">16</item>
-        <item name="3">17</item>
-        <item name="4">18</item>
     </string-array>
 
 

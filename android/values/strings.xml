@@ -86,7 +86,7 @@
     <string name="pref_header_facebook_summary">Use your Facebook login to synchronize your CalJ settings</string>
 
     <string name="facebook_why_login">
-        Connect CalJ with you Facebook account, in order to save all your settings, anniversaries,
+        Connect CalJ with your Facebook account, in order to save all your settings, anniversaries,
         and favorite cities.\n
         \n
         If you use multiple devices, you will be able to synchronize your
@@ -142,5 +142,27 @@
     <string name="candles">Candles:</string>
     <string name="pref_title_shitat_kochavim">Tzet haKochavim</string>
     <string name="pref_title_shitat_laila_rabbenu_tam">Night of Rabbenu Tam</string>
+    <string name="bircathamazon_title" translatable="false">ברכת המזון</string>
+
+    <string name="zimoun">Zimun:</string>
+    <string name="on_repond">Answer</string>
+    <string name="il_reprend">Continue</string>
+    <string name="succot">On Succot</string>
+    <string name="minyan">Minyan</string>
+    <string name="purim">On Purim</string>
+    <string name="chanuka">On Chanuka</string>
+    <string name="low_voice">low voice</string>
+    <string name="begin_bircat_here">If no Zimun, commence here:</string>
+    <string name="rosh_chodesh">Rosh Chodesh:</string>
+    <string name="teshuva">10 days of Teshuva:</string>
+    <string name="guest_mevarech">The guest blesses his host:</string>
+    <string name="pesach">On Pesach</string>
+
+    <string name="resolving_city_name">CalJ is trying to resolve the name and time zone of the place.\nPlease wait…</string>
+    <string name="failed_to_resolve_timezone">CalJ could not connect to the Internet in order to detect the time zone of the selected place.\n\nWe will use your device\'s current time zone instead.\n\nIf you think that this is not the correct value, please modify your system\'s time zone and try again.</string>
+    <string name="successfully_resolved_timezone">Congrats!\n\nCalJ has successfully identified your place. You are about to add the city to your bookmarked places.</string>
+    <string name="no_cities_results_found">No Results Found.</string>
+    <string name="waiting_for_gps_signal">Waiting for GPS signal…</string>
+    <string name="MAP">Map</string>
 
 </resources>

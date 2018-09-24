@@ -17,8 +17,8 @@
     </string-array>
 
     <string-array name="ashkenazSefarad">
-        <item name="1">Aschkenas</item>
-        <item name="0">Sefarad</item>
+        <item name="1">Aschkenasi</item>
+        <item name="0">Edot haMisrach</item>
     </string-array>
 
     <string-array name="sofTzomEntries">
@@ -44,9 +44,6 @@
     <string-array name="notifOmerEntries">
         <item name="0">Aus</item>
         <item name="1">Sterne</item>
-        <item name="2">20:00</item>
-        <item name="3">20:30</item>
-        <item name="4">21:00</item>
     </string-array>
 
     <string-array name="notifOmerShowPrevEntries">

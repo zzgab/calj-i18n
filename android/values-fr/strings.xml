@@ -141,4 +141,25 @@
 	<string name="pref_title_shitat_kochavim">Tzet haCokhavim</string>
 	<string name="pref_title_shitat_laila_rabbenu_tam">Nuit de Rabbénou Tam</string>
 
+    <string name="zimoun">Zimoune :</string>
+	<string name="on_repond">On répond :</string>
+	<string name="il_reprend">Il reprend :</string>
+	<string name="succot">A Souccot :</string>
+	<string name="minyan">Minyan</string>
+	<string name="purim">A Pourim</string>
+	<string name="chanuka">A Ḥanuka</string>
+	<string name="low_voice">low voice</string>
+	<string name="begin_bircat_here">Sans zimoun, on commence ici :</string>
+	<string name="rosh_chodesh">Rosh Ḥodesh :</string>
+	<string name="teshuva">10 jours de Teshouva :</string>
+	<string name="guest_mevarech">L\'invité bénit son hôte :</string>
+    <string name="pesach">A Pessaḥ</string>
+
+	<string name="resolving_city_name">CalJ essaie d\'obtenir le nom du lieu et son fuseau horaire.\nMerci de patienter…</string>
+	<string name="failed_to_resolve_timezone">CalJ n\'a pas réussi à se connecter à l\'Internet pour détecter le fuseau horaire du lieu choisi.\n\nNous allons utiliser le fuseau horaire qui est actuellement celui de votre système.\n\nSi vous pensez que ce n'est pas le bon, vous devrez modifier le fuseau horaire de votre appareil dans les Réglages du système, puis recommencer ici la détection.</string>
+	<string name="successfully_resolved_timezone">Félicitations !\n\nCalJ a correctement identifié le lieu de votre choix. Vous êtes sur le point de l\'ajouter aux villes favorites.</string>
+    <string name="no_cities_results_found">Aucun résultat.</string>
+    <string name="waiting_for_gps_signal">Attente du signal GPS…</string>
+    <string name="MAP">Carte</string>
+
 </resources>

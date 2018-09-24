@@ -26,10 +26,9 @@
 	<string name="long_click_to_remove">Faire une pression longue pour supprimer</string>
 
 	<string name="pref_title_search_city">Rechercher une ville par nom</string>
-	<string name="pref_title_gps">Détecter par GPS</string>
+	<string name="pref_title_gps">Sur une carte ou par GPS</string>
 
     <!-- Cities settings -->
-
 
  	<string name="pref_title_show_dafyomi">Afficher Daf Yomi</string>
  	<string name="pref_title_show_tachanun">Afficher Taḥanoun</string>

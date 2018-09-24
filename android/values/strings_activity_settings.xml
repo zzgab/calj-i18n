@@ -27,7 +27,7 @@
 	<string name="long_click_to_remove">Touch-and-hold to remove</string>
 
 	<string name="pref_title_search_city">Search city by name</string>
-	<string name="pref_title_gps">Locate using GPS</string>
+	<string name="pref_title_gps">Locate using Map or GPS</string>
 
     <!-- Cities settings -->
 

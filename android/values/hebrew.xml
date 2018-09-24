@@ -31,6 +31,24 @@
 	<string translatable="false" name="hebrew_zmanim_shaa_zmanit_gra">שעה זמנית (גר\"א)</string>
 	<string translatable="false" name="hebrew_bircat_levana">ברכת הלבנה :</string>
 
+	<!-- bircat hamazon -->
+	<string translatable="false" name="hebrew_zimoun">:זימון</string>
+	<string translatable="false" name="hebrew_on_repond">:עונים</string>
+	<string translatable="false" name="hebrew_il_reprend">:המברך</string>
+	<string translatable="false" name="hebrew_succot">:בסוכות</string>
+	<string translatable="false" name="hebrew_minyan">:במניין</string>
+	<string translatable="false" name="hebrew_purim">:בפורים</string>
+	<string translatable="false" name="hebrew_chanuka">:בחנוכה</string>
+	<string translatable="false" name="hebrew_low_voice">:בלחש</string>
+	<string translatable="false" name="hebrew_begin_bircat_here">:בלי זימון, מתחילים כאן</string>
+	<string translatable="false" name="hebrew_rosh_chodesh">:בראש חדש</string>
+	<string translatable="false" name="hebrew_teshuva">:בעשרה ימי תשובה</string>
+	<string translatable="false" name="hebrew_guest_mevarech">:ברכת האורח</string>
+	<string translatable="false" name="hebrew_pesach">:בפסח:</string>
+	<string translatable="false" name="hebrew_after">אחרי</string>
+	<string translatable="false" name="hebrew_before">לפני</string>
+	<string translatable="false" name="hebrew_did_you_start_your_meal_before_nightfall">האם התחלתם לאכול לפני צאת הכוכבים?</string>
+
 
 	<string-array translatable="false" name="hebrew_FestivalName">
 	 	<item>ראש השנה</item>
