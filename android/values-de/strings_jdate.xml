@@ -42,7 +42,7 @@
         <item>Pessach</item>
         <item>Jom haSchoa</item>
         <item>Jom haSikaron</item>
-        <item>Jom haAtzma'ut</item>
+        <item>Jom haAtzma\'ut</item>
         <item>Pessach 2</item>
         <item>Lag baOmer</item>
         <item>Jom Jeruschalajim</item>
@@ -50,6 +50,34 @@
         <item>Fasten vom 17. Tammuz</item>
         <item>Fasten vom 9. Aw</item>
         <item>Tu beAw</item>
+    </string-array>
+
+    <string-array name="FestivalTinyName">
+        <item>RH</item>
+        <item>FG</item>
+        <item>YK</item>
+        <item>Su</item>
+        <item>HR</item>
+        <item>SA</item>
+        <item>ST</item>
+        <item>CK</item>
+        <item>10T</item>
+        <item>15S</item>
+        <item>PK</item>
+        <item>FE</item>
+        <item>Pu</item>
+        <item>PS</item>
+        <item>Pe</item>
+        <item>YS</item>
+        <item>YZ</item>
+        <item>YA</item>
+        <item>P2</item>
+        <item>LG</item>
+        <item>YM</item>
+        <item>Sh</item>
+        <item>17T</item>
+        <item>9A</item>
+        <item>15A</item>
     </string-array>
 
     <string name="tachanun_no">kein Tachanun</string>

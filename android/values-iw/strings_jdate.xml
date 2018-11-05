@@ -22,35 +22,6 @@
         <item>אדר ב</item>
         <item>אדר א</item>
     </string-array>
-    
-
-	<string-array name="FestivalName">
-		<item>ראש השנה</item>
-		<item>צום גדליה</item>
-		<item>יום כיפור</item>
-		<item>סוכות</item>
-		<item>הושענה רבה</item>
-		<item>שמיני עצרת</item>
-		<item>שמחת תורה</item>
-		<item>חנוכה</item>
-		<item>תענית י בטבת</item>
-		<item>ט"ו בשבט</item>
-		<item>פורים קטן</item>
-		<item>תענית אסתר</item>
-		<item>פורים</item>
-		<item>פורים שושן</item>
-		<item>פסח</item>
-		<item>יום השואה</item>
-		<item>יום הזכרון</item>
-		<item>יום העצמאות</item>
-		<item>פסח שני</item>
-		<item>ל"ג בעומר</item>
-		<item>יום ירושלים</item>
-		<item>שבועות</item>
-		<item>תענית י"ז תמוז</item>
-		<item>תענית ט" באב</item>
-		<item>ט"ו באב</item>
-	</string-array>
 
 	<string name="tachanun_no">ללא תחנון</string>
 	<string name="tachanun_tsidqatcha">צדקתך</string>
